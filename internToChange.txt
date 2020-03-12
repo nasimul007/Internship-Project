@@ -1,0 +1,23 @@
+semester add
+error message 
+input taken when select
+
+
+subject left credit left error
+
+teacher verification email problem
+teacher update error messages
+
+token name change and expire token name change
+
+batch need attention
+
+Ta er sathe normal companyadd er relation
+
+type file upload check
+
+semester change dont work on TA
+
+book report delete option
+
+supervisor details change
